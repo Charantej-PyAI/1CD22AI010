@@ -1,4 +1,4 @@
-2. Cats vs Dogs CNN Classifier
+Cats vs Dogs CNN Classifier
 
 Improvements Added
 
