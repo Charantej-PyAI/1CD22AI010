@@ -1,4 +1,4 @@
-1. AlexNet Improvements
+AlexNet Improvements
 
 Previous Problems
 
